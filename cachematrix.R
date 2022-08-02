@@ -1,11 +1,15 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+
 ## The makeCacheMatrix function below will get the inverse of a matrix 
 ## and cache the inverse matrix.
 ## The cacheSolve function will compute the inverse of the special "matrix"
 ## returned by the makeCacheMatrix 
 
+#######################
+
 ## Write a short comment describing this function
+
 ## This function was created based on the makeVector function provided in
 ## the assignment page
 ## Instead of getting the mean, the function below is getting the inverse as
@@ -26,8 +30,9 @@ makeCacheMatrix <- function(x = matrix()) {
 
 }
 
-
+#######################
 ## Write a short comment describing this function
+
 ## the function is modelled from the cachemean funtion defined in the
 ## assignment page
 ## the differense is that the variable m in the function below is using the
